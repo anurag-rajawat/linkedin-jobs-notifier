@@ -1,4 +1,4 @@
-# 🚀 LinkedIn Job Notifer
+# 🚀 LinkedIn Job Notifier
 Tired of manually searching for jobs on LinkedIn? This tool automates the process, scraping job listings based on your criteria and sending real-time notifications directly to your email! Stay ahead of the curve and never miss out on your next opportunity.
 
 # ✨ Features
